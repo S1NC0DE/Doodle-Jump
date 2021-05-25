@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.grid {
+    width: 400px;
+    height: 600px;
+    background-image: url(/Images/background.png) ;
+    position: relative;
+    font-size: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    left: 560px;
+    top: 30px;
+    
+
+
+}
+
+.doodler {
+    width: 87px;
+    height: 85px;
+    background-image: url(/Images/doodler-guy.png);
+    position: absolute;
+}
+
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background-image: url(/Images/platform.png);
+    position: absolute;
+}
